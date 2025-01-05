@@ -1,12 +1,18 @@
-The Agent Company.
+<div align="center">
+  <img src="https://github.com/TheAgentCompany/TheAgentCompany/blob/main/docs/images/TAC_logo.png?raw=true" alt="Logo" width="200">
+  <h1 align="center">The Agent Company: Benchmarking LLM Agents on Consequential Real World Tasks</h1>
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+<p align="center">
+    <a href="https://github.com/TheAgentCompany/TheAgentCompany/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
+    </a>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+<p align="center">
+<a href="https://the-agent-company.com/">Website</a> •
+<a href="https://arxiv.org/abs/2412.14161">Paper</a> •
+<a href="https://the-agent-company.com/#/leaderboard">Leaderboard</a>
+</p>
