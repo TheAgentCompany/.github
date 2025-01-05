@@ -13,6 +13,7 @@
 
 <p align="center">
 <a href="https://the-agent-company.com/">Website</a> •
+<a href="https://github.com/TheAgentCompany/TheAgentCompany/">Code</a> •
 <a href="https://arxiv.org/abs/2412.14161">Paper</a> •
 <a href="https://the-agent-company.com/#/leaderboard">Leaderboard</a>
 </p>
